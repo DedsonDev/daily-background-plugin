@@ -1,0 +1,26 @@
+.theme-light .workspace {
+    backdrop-filter: brightness(1) blur(20px);
+    background-color: transparent;
+}
+.theme-dark .workspace {
+    backdrop-filter: brightness(0.35) blur(20px);
+    background-color: transparent;
+}
+
+body { 
+    --background-primary: transparent !important;
+    --background-secondary: rgba(24, 24, 37, 0.5) !important;
+    --titlebar-background-focused: var(--background-secondary) !important;
+    --divider-width: 0px;
+    background-size: cover;
+}
+
+.menu {
+    background-color: var(--background-secondary-alt);
+}
+.modal {
+    background-color: var(--background-secondary-alt);
+}
+.suggestion-container {
+    background-color: var(--background-secondary-alt);
+}

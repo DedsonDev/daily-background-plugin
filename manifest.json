@@ -1,0 +1,11 @@
+{
+	"id": "daily-background",
+	"name": "Daily Background",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Set background to daily bing image.",
+	"author": "David Edson",
+	"authorUrl": "https://edsondev.com",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
